@@ -1,4 +1,4 @@
-# Svelte + TS + Vite + Tailwind
+# Vite + Svelte + Tailwind
 
 bun i
 
